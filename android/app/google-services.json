@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "675138825301",
+    "firebase_url": "https://flutter1-3582a-default-rtdb.firebaseio.com",
+    "project_id": "flutter1-3582a",
+    "storage_bucket": "flutter1-3582a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675138825301:android:82b4a543ee3036d46bb8dc",
+        "android_client_info": {
+          "package_name": "com.example.untitled8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675138825301-9bea3dm0aumcsrh1a9o9kb6j951acotl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkyCa9Sp65i9iFZdPgbcH5QBGAOnOU4X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675138825301-9bea3dm0aumcsrh1a9o9kb6j951acotl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
